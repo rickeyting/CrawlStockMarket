@@ -1,4 +1,4 @@
 # CrawlStockMarket
 
-* Crawling from https://www.tdcc.com.tw/smWeb/
+* Crawl from https://www.tdcc.com.tw/smWeb/
 
